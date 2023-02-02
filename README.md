@@ -1,6 +1,6 @@
 Fluid Simulation - inspired by Navier-Stokes using C++
 
-Project is made in roughly 5 days during my 2nd semestre, enjoy :)
+Project is made in roughly 5 days during my 2nd semestre from scratch, enjoy :)
 
 Preview: https://youtu.be/cMykHUSQoDY
 
