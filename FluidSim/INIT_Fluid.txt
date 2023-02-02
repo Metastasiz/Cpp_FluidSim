@@ -1,0 +1,4 @@
+10 10
+
+//First Integer is how long you would like your simulation to be in second
+//Second Integer is how long you would like to spawn waves in second
